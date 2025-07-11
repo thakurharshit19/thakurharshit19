@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -19,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakurharshit19&show_icons=true&locale=en" alt="thakurharshit19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurharshit19&" alt="thakurharshit19" /></p>
-<h1 align="center">Hey 👋What's Up?</h1>
+
 
 ###
 
@@ -63,11 +62,11 @@
 </div>
 
 ###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thakurharshit19/thakurharshit19/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thakurharshit19/thakurharshit19/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/thakurharshit19/thakurharshit19/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
